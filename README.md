@@ -1,17 +1,28 @@
-# material_widgets_demo
+# Flutter Material Widgets Demo
 
-A new Flutter project.
+## 📌 Giới thiệu
+Đây là ứng dụng Flutter demo các widget Material đã học trong chapter.
 
-## Getting Started
+## 🚀 Chức năng chính
+- AppBar
+- Card + ListTile
+- TextField nhập thông tin
+- Switch (bật/tắt)
+- Checkbox
+- Radio button
+- ElevatedButton
+- SnackBar
+- AlertDialog
+- FloatingActionButton
 
-This project is a starting point for a Flutter application.
+## 📱 Demo
+👉 Video demo: (dán link video vào đây)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Công nghệ sử dụng
+- Flutter
+- Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Cách chạy project
+```bash
+flutter pub get
+flutter run
